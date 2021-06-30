@@ -8,7 +8,7 @@ I summarize my understanding of different libraries that I use in these Jupyter 
 | `Pandas`           | [![Open In Colab][badge]][Pandas]           |
 | `Seaborn`          | [![Open In Colab][badge]][Seaborn]          |
 | `Matplotlib`       | [![Open In Colab][badge]][Matplotlib]       |
-| `Scikit-Learn`     | [![Open In Colab][badge]][Scikit-Learn]          |
+| `Scikit-Learn`     | [![Open In Colab][badge]][Scikit-Learn]     |
 | `tqdm`             | [![Open In Colab][badge]][tqdm]             |
 
 
