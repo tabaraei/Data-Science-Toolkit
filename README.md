@@ -9,6 +9,7 @@ I summarize my understanding of different libraries that I use in these Jupyter 
 | `Seaborn`          | [![Open In Colab][badge]][Seaborn]          |
 | `Matplotlib`       | [![Open In Colab][badge]][Matplotlib]       |
 | `Scikit-Learn`     | [![Open In Colab][badge]][Scikit-Learn]     |
+| `Streamlit`        | [![Open In Colab][badge]][Streamlit]        |
 | `tqdm`             | [![Open In Colab][badge]][tqdm]             |
 
 
@@ -18,4 +19,5 @@ I summarize my understanding of different libraries that I use in these Jupyter 
 [Seaborn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Seaborn.ipynb
 [Matplotlib]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Matplotlib.ipynb
 [Scikit-Learn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Scikit-Learn.ipynb
+[Streamlit]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Streamlit.ipynb
 [tqdm]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/tqdm.ipynb
