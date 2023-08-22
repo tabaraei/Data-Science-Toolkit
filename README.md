@@ -1,12 +1,13 @@
 # Data Science Libraries Cheat Sheet
 
-Welcome to my repository where I've compiled cheat sheets for various libraries used in my Jupyter Notebooks. These cheat sheets summarize my understanding of the libraries and can serve as quick references for your projects. Feel free to explore and utilize them as needed.
+Welcome to my repository, where I've compiled cheat sheets for various libraries used in my Jupyter Notebooks. These cheat sheets summarize my understanding of the libraries and can serve as quick references for your projects. Feel free to explore and utilize them as needed.
 
 ## Libraries Covered
 
 |    **Library**     |              **CheatSheet**                 |
 |:------------------:|:-------------------------------------------:|
 | `Matplotlib`       | [![Open In Colab][badge]][Matplotlib]       |
+| `NLTK`             | [![Open In Colab][badge]][NLTK]             |
 | `Numpy`            | [![Open In Colab][badge]][Numpy]            |
 | `Pandas`           | [![Open In Colab][badge]][Pandas]           |
 | `PyTorch`          | [![Open In Colab][badge]][PyTorch]          |
@@ -17,14 +18,15 @@ Welcome to my repository where I've compiled cheat sheets for various libraries 
 
 
 [badge]: https://colab.research.google.com/assets/colab-badge.svg
-[Matplotlib]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Matplotlib.ipynb
-[Numpy]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Numpy.ipynb
-[Pandas]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Pandas.ipynb
-[PyTorch]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/PyTorch.ipynb
-[Scikit-Learn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Scikit-Learn.ipynb
-[Seaborn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Seaborn.ipynb
-[Streamlit]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/Streamlit.ipynb
-[tqdm]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/notebooks/tqdm.ipynb
+[Matplotlib]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Matplotlib.ipynb
+[NLTK]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/NLTK.ipynb
+[Numpy]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Numpy.ipynb
+[Pandas]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Pandas.ipynb
+[PyTorch]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/PyTorch.ipynb
+[Scikit-Learn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Scikit-Learn.ipynb
+[Seaborn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Seaborn.ipynb
+[Streamlit]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Streamlit.ipynb
+[tqdm]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/tqdm.ipynb
 
 
 ## Getting Started
@@ -34,7 +36,7 @@ To make the most of these cheat sheets:
 1. Click on the "Open In Colab" link next to the library name to access the interactive Colab notebooks.
 2. Explore the notebooks to quickly grasp the key concepts and functions of each library.
 
-Feel free to fork this repository to your GitHub page and adapt these cheat sheets for your own projects. If you find these resources helpful, consider giving the repository a star!
+Feel free to fork this repository on your GitHub page and adapt these cheat sheets for your own projects. If you find these resources helpful, consider giving the repository a star!
 
 ## Contribution
 
