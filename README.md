@@ -4,7 +4,7 @@ Welcome to my repository, where I've compiled cheat sheets for various libraries
 
 ## Libraries Covered
 
-|    **Library**     |              **CheatSheet**                 |
+|    **Library**     |         **Data-Science-Toolkit**            |
 |:------------------:|:-------------------------------------------:|
 | `Matplotlib`       | [![Open In Colab][badge]][Matplotlib]       |
 | `NLTK`             | [![Open In Colab][badge]][NLTK]             |
@@ -18,15 +18,15 @@ Welcome to my repository, where I've compiled cheat sheets for various libraries
 
 
 [badge]: https://colab.research.google.com/assets/colab-badge.svg
-[Matplotlib]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Matplotlib.ipynb
-[NLTK]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/NLTK.ipynb
-[Numpy]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Numpy.ipynb
-[Pandas]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Pandas.ipynb
-[PyTorch]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/PyTorch.ipynb
-[Scikit-Learn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Scikit-Learn.ipynb
-[Seaborn]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Seaborn.ipynb
-[Streamlit]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/Streamlit.ipynb
-[tqdm]: https://colab.research.google.com/github/tabaraei/CheatSheet/blob/master/tqdm.ipynb
+[Matplotlib]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Matplotlib.ipynb
+[NLTK]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/NLTK.ipynb
+[Numpy]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Numpy.ipynb
+[Pandas]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Pandas.ipynb
+[PyTorch]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/PyTorch.ipynb
+[Scikit-Learn]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Scikit-Learn.ipynb
+[Seaborn]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Seaborn.ipynb
+[Streamlit]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/Streamlit.ipynb
+[tqdm]: https://colab.research.google.com/github/tabaraei/Data-Science-Toolkit/blob/master/tqdm.ipynb
 
 
 ## Getting Started
