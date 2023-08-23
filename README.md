@@ -1,10 +1,10 @@
-# Data Science Libraries Cheat Sheet
+# Data Science Toolkit
 
 Welcome to my repository, where I've compiled cheat sheets for various libraries used in my Jupyter Notebooks. These cheat sheets summarize my understanding of the libraries and can serve as quick references for your projects. Feel free to explore and utilize them as needed.
 
 ## Libraries Covered
 
-|    **Library**     |         **Data-Science-Toolkit**            |
+|    **Library**     |               **Notebook**                  |
 |:------------------:|:-------------------------------------------:|
 | `Matplotlib`       | [![Open In Colab][badge]][Matplotlib]       |
 | `NLTK`             | [![Open In Colab][badge]][NLTK]             |
